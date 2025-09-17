@@ -4,13 +4,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
-1. Install dependencies
+1. Instale as dependências 
 
    ```bash
    npm install
    ```
 
-2. Start the app
+2. Inicie o aplicativo
 
    ```bash
    npx expo start
@@ -43,8 +43,7 @@ To learn more about developing your project with Expo, look at the following res
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
 ## Join the community
+Junte-se a nossa comunidade de desenvolvedores criando aplicativos universais.
 
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- [Expo on GitHub](https://github.com/expo/expo): Veja nossa plataforma open source e contribua.
+- [Discord community](https://chat.expo.dev): Visite o forum de dúvidas.
