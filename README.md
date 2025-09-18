@@ -1,6 +1,6 @@
 📱 MeuApp03 - Projeto React Native
 
-Projeto desenvolvido na disciplina de Programação para Dispositivos Móveis
+Atividade Prática da disciplina de Programação para Dispositivos Móveis
 no Centro Universitário Newton Paiva (Wyden)
 📅 Data: 10/09/2025
 👨‍🏫 Professor: Sândalo Bessa
@@ -11,19 +11,26 @@ Este projeto é um app simples feito com React Native que exibe:
 
 Uma imagem de relógio
 
-Um timer com valor fixo 10:10
+Um timer com cronometro de 10:00
 
-Um botão "Começar"
+Um botão "Start" que inicia a contagem do cronometro
+
+Um botão "Stop" que para a contagem do cronometro
 
 Um rodapé com informações do curso
 
-Esse projeto serve como introdução ao layout com componentes básicos do React Native como View, Text, Image, Pressable e StyleSheet.
+Esse projeto serve como introdução ao layout com componentes básicos do React Native como View, Text, Image, Pressable, StyleSheet, Hooks, useState e useRef.
 
 📸 Captura de tela
 
-<img width="1280" height="1024" alt="printRodando" src="https://github.com/user-attachments/assets/4e9c3f69-f630-421d-a987-d1af7fee63f3" />
+<img width="1280" height="1024" alt="printRodando" src='.assets/images/printInicialApp03.png' />
+
+(print do app na tela inicial)
+
+<img width="1280" height="1024" alt="printRodando" src='.assets/images/printExecutandoApp03.png' />
 
 (print do app rodando)
+
 
 📁 Estrutura do Projeto
 ├── App.js / Index.js
