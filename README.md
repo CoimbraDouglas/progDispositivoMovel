@@ -23,11 +23,11 @@ Esse projeto serve como introdução ao layout com componentes básicos do React
 
 📸 Captura de tela
 
-<img width="1280" height="1024" alt="printRodando" src='.assets/images/printInicialApp03.png' />
+<img width="1280" height="1024" alt="printRodando" src='Aula3/app03/assets/images/printInicialApp03.png' />
 
 (print do app na tela inicial)
 
-<img width="1280" height="1024" alt="printRodando" src='.assets/images/printExecutandoApp03.png' />
+<img width="1280" height="1024" alt="printRodando" src='Aula3/app03/assets/images/printExecutandoApp03.png' />
 
 (print do app rodando)
 
