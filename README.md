@@ -2,7 +2,7 @@
 
 Atividade Prática da disciplina de Programação para Dispositivos Móveis
 no Centro Universitário Newton Paiva (Wyden)
-📅 Data: 10/09/2025
+📅 Data: 09/2025
 👨‍🏫 Professor: Sândalo Bessa
 
 🧾 Descrição
