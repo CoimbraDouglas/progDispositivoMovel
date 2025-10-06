@@ -2,6 +2,7 @@
 
 Atividade Prática da disciplina de Programação para Dispositivos Móveis
 no Centro Universitário Newton Paiva (Wyden)
+
 📅 Data: 09/2025
 👨‍🏫 Professor: Sândalo Bessa
 
@@ -9,7 +10,7 @@ no Centro Universitário Newton Paiva (Wyden)
 
 Este projeto é um app simples feito com React Native que exibe:
 
-Uma imagem de relógio
+Uma imagem de relógio estatística
 
 Um timer com cronometro de 10:00
 
