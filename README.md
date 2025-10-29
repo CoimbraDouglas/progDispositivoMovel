@@ -38,11 +38,11 @@ Print Screen do app sendo executado
 
 📁 Estrutura do Projeto
 
-´´´
+```
 ├── App.js / Index.js
 ├── relogio.png
 ├── README.md
-´´´
+```
 
 ---
 
