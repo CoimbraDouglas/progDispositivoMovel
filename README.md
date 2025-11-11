@@ -15,9 +15,9 @@ Uma imagem de **relógio** estatístico
 
 Um timer com cronometro de funcional
 
-Um botão "Start" que inicia a contagem do cronometro
+Um botão **"Start"** que inicia a contagem do cronometro
 
-Um botão "Stop" que para a contagem do cronometro
+Um botão **"Stop"** que para a contagem do cronometro
 
 Um rodapé com informações do curso
 
