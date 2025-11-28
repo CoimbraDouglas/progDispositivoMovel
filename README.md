@@ -1,4 +1,4 @@
-##📱 MeuApp03 - Projeto React Native##
+## 📱 MeuApp03 - Projeto React Native##
 
 Atividade Prática da disciplina de Programação para Dispositivos Móveis no Centro Universitário Newton Paiva (Wyden).
 
