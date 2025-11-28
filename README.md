@@ -1,4 +1,4 @@
-📱 MeuApp03 - Projeto React Native
+##📱 MeuApp03 - Projeto React Native##
 
 Atividade Prática da disciplina de Programação para Dispositivos Móveis no Centro Universitário Newton Paiva (Wyden).
 
@@ -90,7 +90,8 @@ Expo
 
 🧑‍🎓 Desenvolvido por
 
-Alunos da disciplina de Programação para Dispositivos Móveis
+Aluno: Douglas Coimbra Laass
+Disciplina de Programação para Dispositivos Móveis
 Centro Universitário Newton Paiva - Wyden
 Professor: Sândalo Bessa
 📆 10 de setembro de 2025
